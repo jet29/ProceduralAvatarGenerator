@@ -1,7 +1,2 @@
-./all_avatars
-./Background
-./Body
-./Eyes
-./Hair
-./Head
-./Mouth
+*
+!main.py
